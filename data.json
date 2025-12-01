@@ -1,0 +1,70 @@
+{
+  "replace": {
+    "Microsoft.WindowsDeviceRecoveryTool.BusinessLogic.dll": {
+      "filename": "Microsoft.WindowsDeviceRecoveryTool.BusinessLogic.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/Microsoft.WindowsDeviceRecoveryTool.BusinessLogic.dll"
+    },
+    "Microsoft.WindowsDeviceRecoveryTool.LogicCommon.dll": {
+      "filename": "Microsoft.WindowsDeviceRecoveryTool.LogicCommon.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/Microsoft.WindowsDeviceRecoveryTool.LogicCommon.dll"
+    },
+    "Microsoft.WindowsDeviceRecoveryTool.LumiaAdaptation.dll": {
+      "filename": "Microsoft.WindowsDeviceRecoveryTool.LumiaAdaptation.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/Microsoft.WindowsDeviceRecoveryTool.LumiaAdaptation.dll"
+    },
+    "WindowsDeviceRecoveryTool.exe": {
+      "filename": "WindowsDeviceRecoveryTool.exe",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/WindowsDeviceRecoveryTool.exe"
+    },
+    "WindowsDeviceRecoveryTool.exe.config": {
+      "filename": "WindowsDeviceRecoveryTool.exe.config",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/WindowsDeviceRecoveryTool.exe.config"
+    }
+  },
+  "download": {
+    "Microsoft.Bcl.AsyncInterfaces.dll": {
+      "filename": "Microsoft.Bcl.AsyncInterfaces.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    "SharpCompress.dll": {
+      "filename": "SharpCompress.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/SharpCompress.dll"
+    },
+    "System.Buffers.dll": {
+      "filename": "System.Buffers.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Buffers.dll"
+    },
+    "System.IO.Pipelines.dll": {
+      "filename": "System.IO.Pipelines.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.IO.Pipelines.dll"
+    },
+    "System.Memory.dll": {
+      "filename": "System.Memory.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Memory.dll"
+    },
+    "System.Numerics.Vectors.dll": {
+      "filename": "System.Numerics.Vectors.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Numerics.Vectors.dll"
+    },
+    "System.Runtime.CompilerServices.Unsafe.dll": {
+      "filename": "System.Runtime.CompilerServices.Unsafe.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    "System.Text.Encodings.Web.dll": {
+      "filename": "System.Text.Encodings.Web.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Text.Encodings.Web.dll"
+    },
+    "System.Text.Json.dll": {
+      "filename": "System.Text.Json.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Text.Json.dll"
+    },
+    "System.Threading.Tasks.Extensions.dll": {
+      "filename": "System.Threading.Tasks.Extensions.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/System.Threading.Tasks.Extensions.dll"
+    },
+    "ZstdSharp.dll": {
+      "filename": "ZstdSharp.dll",
+      "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/libs/ZstdSharp.dll"
+    }
+  }
+}
