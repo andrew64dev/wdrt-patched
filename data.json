@@ -1,26 +1,26 @@
 {
-  "replace": {
-    "Microsoft.WindowsDeviceRecoveryTool.BusinessLogic.dll": {
+  "replace": [
+    {
       "filename": "Microsoft.WindowsDeviceRecoveryTool.BusinessLogic.dll",
       "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/Microsoft.WindowsDeviceRecoveryTool.BusinessLogic.dll"
     },
-    "Microsoft.WindowsDeviceRecoveryTool.LogicCommon.dll": {
+    {
       "filename": "Microsoft.WindowsDeviceRecoveryTool.LogicCommon.dll",
       "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/Microsoft.WindowsDeviceRecoveryTool.LogicCommon.dll"
     },
-    "Microsoft.WindowsDeviceRecoveryTool.LumiaAdaptation.dll": {
+    {
       "filename": "Microsoft.WindowsDeviceRecoveryTool.LumiaAdaptation.dll",
       "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/Microsoft.WindowsDeviceRecoveryTool.LumiaAdaptation.dll"
     },
-    "WindowsDeviceRecoveryTool.exe": {
+    {
       "filename": "WindowsDeviceRecoveryTool.exe",
       "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/WindowsDeviceRecoveryTool.exe"
     },
-    "WindowsDeviceRecoveryTool.exe.config": {
+    {
       "filename": "WindowsDeviceRecoveryTool.exe.config",
       "url": "https://github.com/andrew64dev/wdrt-patched/raw/refs/heads/main/WindowsDeviceRecoveryTool.exe.config"
     }
-  },
+  ],
   "download": {
     "Microsoft.Bcl.AsyncInterfaces.dll": {
       "filename": "Microsoft.Bcl.AsyncInterfaces.dll",
